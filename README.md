@@ -6,7 +6,7 @@ _Aplicación de esncuesta básica_Tutorial [aquí](https://docs.djangoproject.co
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Mira **Deployment** para conocer como desplegar el proyecto.[aquí](https://encuesta-django.herokuapp.com/)
+Mira **Deployment** para conocer como desplegar el proyecto.[aquí](https://youtu.be/_pMYOdxRcDY)
 
 
 ### Pre-requisitos 📋
