@@ -1,6 +1,9 @@
 # Encuesta_Django
 
 _Aplicación de esncuesta básica_Tutorial [aquí](https://docs.djangoproject.com/en/4.0/intro/tutorial01/)
+## Despliegue 📦
+
+[_deploy_](https://encuesta-django.herokuapp.com/)
 
 ## Comenzando 🚀
 
@@ -46,10 +49,6 @@ _Ejecutar las pruebas automatizadas para este sistema_
 ...\> py manage.py runserver -Windows
 $ python3 manage.py runserver -linux
 ```
-
-## Despliegue 📦
-
-[_deploy_](https://encuesta-django.herokuapp.com/)
 
 ## Construido con 🛠️
 
